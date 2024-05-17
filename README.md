@@ -1,3 +1,5 @@
+#### Experiment number: 02
+#### Date:
 # SIMULATION AND IMPLEMENTATION OF  COMBINATIONAL LOGIC CIRCUITS
 
 ## AIM: 
